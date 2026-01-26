@@ -27,7 +27,6 @@
       {
         "tab": "Guides",
         "pages": [
-          "guides/test",
           {
             "group": "Getting started",
             "pages": [
@@ -65,7 +64,6 @@
       {
         "tab": "API reference",
         "pages": [
-          "api-reference/test",
           {
             "group": "API documentation",
             "pages": [
