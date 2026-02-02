@@ -71,13 +71,12 @@
             ]
           },
           {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
+            "group": "Mintlify Local Endpoints",
+            "openapi": "api-reference/openapi.json"
+          },
+          {
+            "group": "Mintlify Remote Endpoints",
+            "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
           }
         ]
       }
