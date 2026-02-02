@@ -75,6 +75,14 @@
             "openapi": "api-reference/openapi.json"
           },
           {
+            "group": "Select Endpoints API",
+            "openapi": "api-reference/users-openapi.json",
+            "pages": [
+              "GET /users",
+              "api-reference/user"
+            ]
+          },
+          {
             "group": "Mintlify Remote Endpoints",
             "openapi": "https://petstore3.swagger.io/api/v3/openapi.json"
           }
